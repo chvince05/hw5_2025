@@ -201,7 +201,7 @@ is selected in the accessibility preferences.
 
 @media (prefers-reduced-motion){
     #logo{
-        animation: hidden;
+        animation: none;
     }
 }
 
